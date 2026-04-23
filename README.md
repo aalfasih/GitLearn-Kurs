@@ -1,8 +1,8 @@
-#Git- Grundkus
+# Git- Grundkus
  GitHub lrenen und intensive ueben
 
- ##Projektdareien
+ ## Projektdareien
  umfasst Java Beispiele
 
 ---
- ###Code implementiren
+ ### Code implementiren
