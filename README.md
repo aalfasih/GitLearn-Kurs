@@ -1,2 +1,4 @@
 # GitLearn-Kuts
-Grundkurs Git zulernen.
+#Grundkurs Git zulernen.
+# um Git zu beherschen
+#und Ueben 
